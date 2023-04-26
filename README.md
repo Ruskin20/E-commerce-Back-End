@@ -3,12 +3,7 @@
 
 ## Description
 Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called content management systems (CMS). This app is a command-line application that manages a company's employee database, using Node.js, Inquirer, and MySQL.
-## Description
-```md
-Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes.
 
-This app uses mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
-```
 ## Table of contents
 * [Installation](#Installation)
 * [Usage](#Usage)
